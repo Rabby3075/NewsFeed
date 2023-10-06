@@ -1,16 +1,5 @@
-# livetest
+# NewsFeed
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ss1](https://github.com/Rabby3075/NewsFeed/assets/65245815/c93b529d-7af4-4818-a74e-37abaa9e0b60)
+![ss2](https://github.com/Rabby3075/NewsFeed/assets/65245815/814ec1f9-5da2-4fcd-a2e0-bca3f15ed5f1)
